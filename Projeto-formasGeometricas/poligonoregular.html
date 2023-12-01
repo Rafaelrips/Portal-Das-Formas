@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="formas.css">
+  <title>Regular Polygon Area Calculator</title>
+</head>
+<body>
+  <div class="poligonoregular">
+    <h2>Polígonoregular</h2>
+  </div>
+  <div>
+    <h1>Calcular Área do poligonoregular</h1>
+    <label for="sides">Escolha o número de lados:</label>
+    <select id="sides">
+      <option value="3">Triângulo</option>
+      <option value="4">Quadrado</option>
+      <option value="5">Pentagon</option>
+      <option value="6">Hexágono</option>
+    </select>
+    <button onclick="calculateArea()">Calcular área</button>
+    <p id="result"></p>
+  </div>
+  <script src="js/script.js"></script>
+</body>
+</html>

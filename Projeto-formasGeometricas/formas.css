@@ -1,0 +1,96 @@
+body {
+    display: flex;
+    align-items: center;
+    background: #0c192c;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .circulo {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+  .coroadocirculo {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+  .Trapezio {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .hexagonoregular {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+  .poligonoregular {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+  .quadrado {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+  .retangulo {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+  .triangulo {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+  div h1{
+    color: #fff;
+  }
+
+  div h2{
+    color: #fff;
+  }
+
+  div label{
+    color: #fff;
+  }
+
+  div p{
+    color: #fff;
+  }
+
+  select {
+    margin-bottom: 10px;
+    padding: 5px;
+  }
+  
+  button {
+    padding: 8px;
+    cursor: pointer;
+  }
+  
+  p {
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
